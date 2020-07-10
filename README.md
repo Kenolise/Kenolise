@@ -1,16 +1,15 @@
-### Hi there 👋
+# Kenose Osedeme
+[![Twitter Badge](https://img.shields.io/badge/-@thekenose-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thekenose)](https://twitter.com/thekenose_) [![Linkedin Badge](https://img.shields.io/badge/kenosedeme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenosedeme/)](https://www.linkedin.com/in/kenosedeme/) [![Medium Badge](https://img.shields.io/badge/-kenosedeme-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kenosedeme)](https://medium.com/@kenosedeme)
+[![Gmail Badge](https://img.shields.io/badge/-kenosedeme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenosedeme@gmail.com)](mailto:kenosedeme@gmail.com)
 
-<!--
-**Kenolise/Kenolise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Kenose Osedeme. I'm a Software Engineer 👨‍💻 who is passionate about building amazing Web Applications. I'm also interested in Artificial Intelligence and Machine Learning🤖
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building a Medical Chatbot
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about: tech, sports, music
+- 😄 Pronouns: he/him
+- ⚡ Languages: Python, C, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤩🤩Let's get to work!
