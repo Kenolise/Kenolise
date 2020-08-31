@@ -6,8 +6,8 @@
 I'm Kenose Osedeme. I'm a Software Engineer 👨‍💻 who is passionate about building amazing Web Applications. I'm also interested in Artificial Intelligence and Machine Learning🤖
 
 - 🔭 I’m currently building a Medical Chatbot
-- 🌱 I’m currently learning Python
-- 💬 Ask me about: tech, sports, music
+- 🌱 I really enjoy coding in Python!
+- 💬 Ask me about: tech, sports and music too.
 - 😄 Pronouns: he/him
 - ⚡ Languages: Python, C, HTML/CSS
 
