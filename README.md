@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kenosedeme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenosedeme@gmail.com)](mailto:kenosedeme@gmail.com)
 
 ## Hi 👋, 
-I'm Kenose Osedeme. I'm a Software Engineer 👨‍💻 who is passionate about building amazing Web Applications. I'm also interested in Artificial Intelligence and Machine Learning🤖
+I'm Kenose Osedeme. I'm a Software Engineer / Student 👨‍💻 who is passionate about building amazing Data- Driven Web Applications. I'm also interested in Artificial Intelligence and Machine Learning🤖
 
 - 🔭 I’m currently building a Medical Chatbot / Virtual Assistant
 - 🌱 I really enjoy coding in Python!
