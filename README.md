@@ -3,12 +3,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-kenosedeme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenosedeme@gmail.com)](mailto:kenosedeme@gmail.com)
 
 ## Hi 👋, 
-I'm Kenose Osedeme. An AI Researcher / Software Engineer 👨‍💻 passionate about building amazing Data- Driven Applications (Web/Mobile).
+I'm Kenose Osedeme. An AI Researcher / Software Consultant 👨‍💻 - passionate about building amazing Data- Driven Applications (Web/Mobile).
 
 - 🌱 I really enjoy coding in Python!
 - 💬 When we speak, ask me about: tech, sports and music too!
 - 😄 Pronouns: he/him
-- ⚡ Languages: Python, C, HTML/CSS
+- ⚡ Languages: Python, Kotlin, C, HTML/CSS
 
 
 🤩🤩Let's get to work!
