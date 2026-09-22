@@ -1,7 +1,7 @@
 # Kenose Osedeme
 
 ## Hi 👋, 
-I'm Kenose Osedeme. A Software Engineer 👨‍💻 - passionate about building amazing Data- Driven Applications (Web/Mobile).
+I'm Kenose Osedeme. I'm passionate about building amazing Data- Driven Applications (Web/Mobile).
 
 - 🔒 I'm currently working on a lot of confidential projects.
 - 🌱 I really enjoy coding in Python!
